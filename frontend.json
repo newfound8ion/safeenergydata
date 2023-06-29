@@ -1,18 +1,18 @@
 { "video": "YImvnndrrdU", "benefits": 
     [ 
-    { "title": "Benefit 1", "text": "Lorem ipsum"} ,
-    { "title": "Benefit 2", "text": "Lorem ipsum"} ,    
-    { "title": "Benefit 3", "text": "Lorem ipsum"}
+    { "title": "Prove Your Creativity, stay anon!", "text": "Earn WATT, a non-transferable token reflecting your creative energy. The more WATT the more benefits you can unlock."} ,
+    { "title": "Get ready for the airdrops, and more!", "text": "Above 40 WATTs of creative energy, you are eligible for all the token airdrops starting in October."} ,    
+    { "title": "Start Now! Get your Green Checkmark", "text": "Grow your WATTs early and be ahead of the game.  You will receive a Green Checkmark that represents your identity."}
     ] ,
       "game modal metadata": [ 
-    { "id": "buysparks", "title": "Buy sparks", "text": "Lorem ipsum"} ,
-    { "id": "invitefrens", "title": "Game name", "text": "Lorem ipsum"} ,
-    { "id": "twitterenergy", "title": "Game name", "text": "Lorem ipsum"} ,
-    { "id": "twitterverif", "title": "Game name", "text": "Lorem ipsum"} ,
-    { "id": "twitterblue", "title": "Game name", "text": "Lorem ipsum"} ,
-    { "id": "twitterfollowers", "title": "Game name", "text": "Lorem ipsum"} ,
-    { "id": "gitcoinenergy", "title": "Game name", "text": "Lorem ipsum"} ,
-    { "id": "twitternetwork", "title": "Game name", "text": "Lorem ipsum"} ,
-    { "id": "sharemylink", "title": "Game name", "text": "Lorem ipsum"} 
+    { "id": "buysparks", "title": "Buy sparks", "text": "You can activate and boost any account with Sparks. You can earn sparks for free based on your WATTs and the WATTs of the users you activated, and you can also buy Sparks."} ,
+    { "id": "invitefrens", "title": "Invite frens", "text": "Give Sparks"} ,
+    { "id": "twitterenergy", "title": "Twitter Energy", "text": "Lorem ipsum"} ,
+    { "id": "twitterverif", "title": "Twitter Verification", "text": "Lorem ipsum"} ,
+    { "id": "twitterblue", "title": "Twitter Blue", "text": "Lorem ipsum"} ,
+    { "id": "twitterfollowers", "title": "Twitter Followers", "text": "Lorem ipsum"} ,
+    { "id": "gitcoinenergy", "title": "Gitcoin Energy", "text": "Lorem ipsum"} ,
+    { "id": "twitternetwork", "title": "Twitter Network", "text": "Lorem ipsum"} ,
+    { "id": "sharemylink", "title": "Share My Link", "text": "Lorem ipsum"} 
     ] 
 }
