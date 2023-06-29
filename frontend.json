@@ -1,0 +1,18 @@
+{ "video": "YImvnndrrdU", "benefits": 
+    [ 
+    { "title": "Benefit 1", "text": "Lorem ipsum"} ,
+    { "title": "Benefit 2", "text": "Lorem ipsum"} ,    
+    { "title": "Benefit 3", "text": "Lorem ipsum"}
+    ] ,
+      "game modal metadata": [ 
+    { "id": "buysparks", "title": "Buy sparks", "text": "Lorem ipsum"} ,
+    { "id": "invitefrens", "title": "Game name", "text": "Lorem ipsum"} ,
+    { "id": "twitterenergy", "title": "Game name", "text": "Lorem ipsum"} ,
+    { "id": "twitterverif", "title": "Game name", "text": "Lorem ipsum"} ,
+    { "id": "twitterblue", "title": "Game name", "text": "Lorem ipsum"} ,
+    { "id": "twitterfollowers", "title": "Game name", "text": "Lorem ipsum"} ,
+    { "id": "gitcoinenergy", "title": "Game name", "text": "Lorem ipsum"} ,
+    { "id": "twitternetwork", "title": "Game name", "text": "Lorem ipsum"} ,
+    { "id": "sharemylink", "title": "Game name", "text": "Lorem ipsum"} 
+    ] 
+}
