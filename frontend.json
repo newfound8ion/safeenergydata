@@ -13,6 +13,7 @@
     { "id": "twitterfollowers", "title": "Twitter Followers", "text": "Do you have followers on Twitter? That's awesome, this gives you a bit more WATT, claim it now and see how much you get."} ,
     { "id": "gitcoinenergy", "title": "Gitcoin Energy", "text": "Gitcoin Passport is a great way to prove you are a real human who participates in the creative flow of the decentralised internet. You can grow your Gitcoin score and turn it into WATT within minutes."} ,
     { "id": "twitternetwork", "title": "Twitter Network", "text": "Invite your Twitter Network to the app and get rewards in Sparks, PowerUP and WATT. This is likely the #1 source of WATT if you want to grow faster. Your Twitter network is sorted by a probabilistic algorithm based on an estimate of their Twitter Energy."} ,
-    { "id": "sharemylink", "title": "Share My Link", "text": "Copy your profile link into your clipboard so you can share it everywhere and ask your friends to give you PowerUPs. Each PowerUP will increase your WATT."} 
+    { "id": "sharemylink", "title": "Get PowerUP", "text": "Get PowerUPs on your profile page by sharing your link on Twitter to your followers via DM."} ,
+    { "id": "copymylink", "title": "Copy My Link", "text": "Copy your profile link into your clipboard so you can share it everywhere and ask your friends to give you PowerUPs. Each PowerUP will increase your WATT."} 
     ] 
 }
