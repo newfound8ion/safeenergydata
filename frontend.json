@@ -6,13 +6,13 @@
     ] ,
       "game modal metadata": [ 
     { "id": "buysparks", "title": "Buy sparks", "text": "You can activate and boost any account with Sparks. You can earn sparks for free based on your WATTs and the WATTs of the users you activated, and you can also buy Sparks."} ,
-    { "id": "invitefrens", "title": "Invite frens", "text": "Give Sparks"} ,
-    { "id": "twitterenergy", "title": "Twitter Energy", "text": "Lorem ipsum"} ,
-    { "id": "twitterverif", "title": "Twitter Verification", "text": "Lorem ipsum"} ,
-    { "id": "twitterblue", "title": "Twitter Blue", "text": "Lorem ipsum"} ,
-    { "id": "twitterfollowers", "title": "Twitter Followers", "text": "Lorem ipsum"} ,
-    { "id": "gitcoinenergy", "title": "Gitcoin Energy", "text": "Lorem ipsum"} ,
-    { "id": "twitternetwork", "title": "Twitter Network", "text": "Lorem ipsum"} ,
-    { "id": "sharemylink", "title": "Share My Link", "text": "Lorem ipsum"} 
+    { "id": "invitefrens", "title": "Invite frens", "text": "Activate your frens account by giving them their first Spark. When they reach 10 WATT, you will receive a free Spark. Upon 20 WATT you receive 100 and upon 30 you receive 1000 and so on. The spark system rewards good inviters."} ,
+    { "id": "twitterenergy", "title": "Twitter Energy", "text": "You spent hours on Twitter giving away your creative energy to the world for free. Now it's time for the world to pay back by turning your Twitter activity into creative energy and collect your WATT."} ,
+    { "id": "twitterverif", "title": "Twitter Verification", "text": "Do you own a twitter account? You can claim a tiny bit of WATT for that."} ,
+    { "id": "twitterblue", "title": "Twitter Blue", "text": "Bots don't have credit cards to buy Twitter Blue subscriptions, and owning a blue checkmark proves that you are a real human. You can anonymously prove you are not a robot and get some WATT."} ,
+    { "id": "twitterfollowers", "title": "Twitter Followers", "text": "Do you have followers on Twitter? That's awesome, this gives you a bit more WATT, claim it now and see how much you get."} ,
+    { "id": "gitcoinenergy", "title": "Gitcoin Energy", "text": "Gitcoin Passport is a great way to prove you are a real human who participates in the creative flow of the decentralised internet. You can grow your Gitcoin score and turn it into WATT within minutes."} ,
+    { "id": "twitternetwork", "title": "Twitter Network", "text": "Invite your Twitter Network to the app and get rewards in Sparks, PowerUP and WATT. This is likely the #1 source of WATT if you want to grow faster. Your Twitter network is sorted by a probabilistic algorithm based on an estimate of their Twitter Energy."} ,
+    { "id": "sharemylink", "title": "Share My Link", "text": "Copy your profile link into your clipboard so you can share it everywhere and ask your friends to give you PowerUPs. Each PowerUP will increase your WATT."} 
     ] 
 }
