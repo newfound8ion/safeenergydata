@@ -1,0 +1,7 @@
+{
+  "accounts": [
+  { "username": "vectornewman", "nco": "vectornew.io", "watt": 30 },  
+  { "username": "newforum_nco", "nco": "newforum.io", "watt": 60 },
+  { "username": "madvi.io", "nco": "madvi.io", "watt": 30 }
+  ]
+}
