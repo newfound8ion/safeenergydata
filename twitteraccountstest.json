@@ -1,10 +1,8 @@
 {
   "accounts": [
-
-  
-  { "username": "sofiane_nco", "watt": 30 },  
-  { "username": "newforum_nco", "watt": 60 },
-  { "username": "madvinova", "watt": 30 },
-  { "username": "divine_economy", "watt": 40 }
+    { "username": "sofiane_nco", "nco": "vectornew.io", "watt": 30 },
+    { "username": "newforum_nco", "nco": "newforum.io", "watt": 60 },
+    { "username": "madvinova", "nco": "madvi.io", "watt": 30 },
+    { "username": "divine_economy", "watt": 40 }
   ]
 }
